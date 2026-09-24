@@ -69,8 +69,12 @@ Atualmente, estou aprofundando meus conhecimentos em **TypeScript, React, Next.j
 ## GitHub em números
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otavio2019&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&locale=pt-br" alt="Estatísticas do GitHub de Otávio" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio2019&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&locale=pt-br" alt="Linguagens mais usadas por Otávio" />
+  <a href="https://github.com/otavio2019">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otavio2019&theme=github_dark" alt="Resumo do GitHub de Otávio" />
+  </a>
+  <a href="https://github.com/otavio2019?tab=repositories">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otavio2019&theme=github_dark" alt="Linguagens dos repositórios de Otávio" />
+  </a>
 </div>
 
 ## Vamos conversar?
